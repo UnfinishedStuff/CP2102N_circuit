@@ -1,6 +1,3 @@
-# CP2102N_circuit
-Circuit diagram for the CP2102N
-
 # Using the CP2102N with the 328P
 
 This is a quick writeup of how to use the Silicon Labs CP2102N with the ATMega328p, just for future reference.  This guide details how to wire the CP2102N with a 328p on a breadboard so that the 328 can be programmed over USB as if it was an Arduino Uno.
